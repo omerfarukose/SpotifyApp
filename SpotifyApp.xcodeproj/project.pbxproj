@@ -28,6 +28,7 @@
 		221FFE822AC8897E0062AA32 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221FFE812AC8897E0062AA32 /* AudioTrack.swift */; };
 		221FFE842AC8898C0062AA32 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221FFE832AC8898C0062AA32 /* Artist.swift */; };
 		221FFE862AC889930062AA32 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221FFE852AC889930062AA32 /* UserProfile.swift */; };
+		22D366AE2AC897EF00D24BFD /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D366AD2AC897EF00D24BFD /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		221FFE812AC8897E0062AA32 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		221FFE832AC8898C0062AA32 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		221FFE852AC889930062AA32 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		22D366AD2AC897EF00D24BFD /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				221FFE512AC884740062AA32 /* Assets.xcassets */,
 				221FFE482AC884730062AA32 /* AppDelegate.swift */,
 				221FFE4A2AC884730062AA32 /* SceneDelegate.swift */,
+				22D366AD2AC897EF00D24BFD /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				221FFE682AC8879F0062AA32 /* LibraryViewController.swift in Sources */,
 				221FFE842AC8898C0062AA32 /* Artist.swift in Sources */,
 				221FFE4B2AC884730062AA32 /* SceneDelegate.swift in Sources */,
+				22D366AE2AC897EF00D24BFD /* Extensions.swift in Sources */,
 				221FFE782AC8884D0062AA32 /* SearchResultViewController.swift in Sources */,
 				221FFE7C2AC889180062AA32 /* APICaller.swift in Sources */,
 				221FFE702AC8880E0062AA32 /* SettingsViewController.swift in Sources */,
